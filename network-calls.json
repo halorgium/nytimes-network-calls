@@ -4060,16 +4060,18 @@
   ],
   "tallies": [
     {
-      "gop_electoral_lead": 0,
       "total_popular_vote": 110870336,
+      "gop_electoral_lead": 0,
       "gop_popular_vote": 54030703,
-      "gop_electoral_won": 206,
       "dem_states_won": 26,
+      "gop_electoral_won": 206,
       "last_updated": "2:30 AM ET",
       "winner": "DEM",
       "gop_states_won": 24,
       "rep_vote_pct": 48.7332364537977,
       "organization_id": "NYT",
+      "dem_vote_pct": 49.7539017109139,
+      "rep_electoral_lead": 0,
       "markers": [
         {
           "offset": 269,
@@ -4077,8 +4079,6 @@
           "line": true
         }
       ],
-      "dem_vote_pct": 49.7539017109139,
-      "rep_electoral_lead": 0,
       "bar_order": [
         "dem",
         "ind",
@@ -4086,8 +4086,8 @@
         "rep"
       ],
       "total_precincts_reporting": 150095,
-      "live": true,
       "dem_popular_vote": 55162318,
+      "live": true,
       "branch": "president",
       "rep_electoral_won": 206,
       "buckets": {
@@ -4121,8 +4121,9 @@
       },
       "count": 538,
       "rep_popular_vote": 54030703,
-      "year": 2012,
       "gop_vote_pct": 48.7332364537977,
+      "year": 2012,
+      "call_tracker_classes": "dem-win win dem-lead",
       "highlights": {
         "left": [
           "dem"
@@ -4137,22 +4138,23 @@
       },
       "total_precincts": 174047,
       "rep_states_won": 24,
-      "call_tracker_classes": "dem-win win dem-lead",
       "dem_electoral_won": 303,
-      "dem_electoral_lead": 29,
-      "updated_at": "2012-11-07T07:30:47Z"
+      "updated_at": "2012-11-07T07:30:47Z",
+      "dem_electoral_lead": 29
     },
     {
-      "gop_electoral_lead": 0,
       "total_popular_vote": 0,
+      "gop_electoral_lead": 0,
       "gop_popular_vote": 0,
-      "gop_electoral_won": 206,
       "dem_states_won": 26,
+      "gop_electoral_won": 206,
       "last_updated": "2:30 AM ET",
       "winner": "DEM",
       "gop_states_won": 24,
       "rep_vote_pct": 0,
       "organization_id": "AP",
+      "dem_vote_pct": 0,
+      "rep_electoral_lead": 0,
       "markers": [
         {
           "offset": 269,
@@ -4160,8 +4162,6 @@
           "line": true
         }
       ],
-      "dem_vote_pct": 0,
-      "rep_electoral_lead": 0,
       "bar_order": [
         "dem",
         "ind",
@@ -4169,8 +4169,8 @@
         "rep"
       ],
       "total_precincts_reporting": 0,
-      "live": true,
       "dem_popular_vote": 0,
+      "live": true,
       "branch": "president",
       "rep_electoral_won": 206,
       "buckets": {
@@ -4204,8 +4204,9 @@
       },
       "count": 538,
       "rep_popular_vote": 0,
-      "year": 2012,
       "gop_vote_pct": 0,
+      "year": 2012,
+      "call_tracker_classes": "dem-win win dem-lead",
       "highlights": {
         "left": [
           "dem"
@@ -4220,22 +4221,23 @@
       },
       "total_precincts": 0,
       "rep_states_won": 24,
-      "call_tracker_classes": "dem-win win dem-lead",
       "dem_electoral_won": 303,
-      "dem_electoral_lead": 29,
-      "updated_at": "2012-11-07T07:30:47Z"
+      "updated_at": "2012-11-07T07:30:47Z",
+      "dem_electoral_lead": 29
     },
     {
-      "gop_electoral_lead": 3,
       "total_popular_vote": 0,
+      "gop_electoral_lead": 3,
       "gop_popular_vote": 0,
-      "gop_electoral_won": 203,
       "dem_states_won": 24,
+      "gop_electoral_won": 203,
       "last_updated": "2:30 AM ET",
       "winner": "DEM",
       "gop_states_won": 23,
       "rep_vote_pct": 0,
       "organization_id": "ABC",
+      "dem_vote_pct": 0,
+      "rep_electoral_lead": 3,
       "markers": [
         {
           "offset": 269,
@@ -4243,8 +4245,6 @@
           "line": true
         }
       ],
-      "dem_vote_pct": 0,
-      "rep_electoral_lead": 3,
       "bar_order": [
         "dem",
         "ind",
@@ -4252,8 +4252,8 @@
         "rep"
       ],
       "total_precincts_reporting": 0,
-      "live": true,
       "dem_popular_vote": 0,
+      "live": true,
       "branch": "president",
       "rep_electoral_won": 203,
       "buckets": {
@@ -4287,8 +4287,9 @@
       },
       "count": 538,
       "rep_popular_vote": 0,
-      "year": 2012,
       "gop_vote_pct": 0,
+      "year": 2012,
+      "call_tracker_classes": "dem-win win dem-lead",
       "highlights": {
         "left": [
           "dem"
@@ -4303,22 +4304,23 @@
       },
       "total_precincts": 0,
       "rep_states_won": 23,
-      "call_tracker_classes": "dem-win win dem-lead",
       "dem_electoral_won": 281,
-      "dem_electoral_lead": 51,
-      "updated_at": "2012-11-07T07:30:47Z"
+      "updated_at": "2012-11-07T07:30:47Z",
+      "dem_electoral_lead": 51
     },
     {
-      "gop_electoral_lead": 3,
       "total_popular_vote": 0,
+      "gop_electoral_lead": 3,
       "gop_popular_vote": 0,
-      "gop_electoral_won": 203,
       "dem_states_won": 25,
+      "gop_electoral_won": 203,
       "last_updated": "2:30 AM ET",
       "winner": "DEM",
       "gop_states_won": 23,
       "rep_vote_pct": 0,
       "organization_id": "CBS",
+      "dem_vote_pct": 0,
+      "rep_electoral_lead": 3,
       "markers": [
         {
           "offset": 269,
@@ -4326,8 +4328,6 @@
           "line": true
         }
       ],
-      "dem_vote_pct": 0,
-      "rep_electoral_lead": 3,
       "bar_order": [
         "dem",
         "ind",
@@ -4335,8 +4335,8 @@
         "rep"
       ],
       "total_precincts_reporting": 0,
-      "live": true,
       "dem_popular_vote": 0,
+      "live": true,
       "branch": "president",
       "rep_electoral_won": 203,
       "buckets": {
@@ -4370,8 +4370,9 @@
       },
       "count": 538,
       "rep_popular_vote": 0,
-      "year": 2012,
       "gop_vote_pct": 0,
+      "year": 2012,
+      "call_tracker_classes": "dem-win win dem-lead",
       "highlights": {
         "left": [
           "dem"
@@ -4386,22 +4387,23 @@
       },
       "total_precincts": 0,
       "rep_states_won": 23,
-      "call_tracker_classes": "dem-win win dem-lead",
       "dem_electoral_won": 290,
-      "dem_electoral_lead": 42,
-      "updated_at": "2012-11-07T07:30:47Z"
+      "updated_at": "2012-11-07T07:30:47Z",
+      "dem_electoral_lead": 42
     },
     {
-      "gop_electoral_lead": 3,
       "total_popular_vote": 0,
+      "gop_electoral_lead": 3,
       "gop_popular_vote": 0,
-      "gop_electoral_won": 203,
       "dem_states_won": 23,
+      "gop_electoral_won": 203,
       "last_updated": "2:30 AM ET",
       "winner": "DEM",
       "gop_states_won": 23,
       "rep_vote_pct": 0,
       "organization_id": "NBC",
+      "dem_vote_pct": 0,
+      "rep_electoral_lead": 3,
       "markers": [
         {
           "offset": 269,
@@ -4409,8 +4411,6 @@
           "line": true
         }
       ],
-      "dem_vote_pct": 0,
-      "rep_electoral_lead": 3,
       "bar_order": [
         "dem",
         "ind",
@@ -4418,8 +4418,8 @@
         "rep"
       ],
       "total_precincts_reporting": 0,
-      "live": true,
       "dem_popular_vote": 0,
+      "live": true,
       "branch": "president",
       "rep_electoral_won": 203,
       "buckets": {
@@ -4453,8 +4453,9 @@
       },
       "count": 538,
       "rep_popular_vote": 0,
-      "year": 2012,
       "gop_vote_pct": 0,
+      "year": 2012,
+      "call_tracker_classes": "dem-win win dem-lead",
       "highlights": {
         "left": [
           "dem"
@@ -4469,22 +4470,23 @@
       },
       "total_precincts": 0,
       "rep_states_won": 23,
-      "call_tracker_classes": "dem-win win dem-lead",
       "dem_electoral_won": 274,
-      "dem_electoral_lead": 57,
-      "updated_at": "2012-11-07T07:30:47Z"
+      "updated_at": "2012-11-07T07:30:47Z",
+      "dem_electoral_lead": 57
     },
     {
-      "gop_electoral_lead": 3,
       "total_popular_vote": 0,
+      "gop_electoral_lead": 3,
       "gop_popular_vote": 0,
-      "gop_electoral_won": 201,
       "dem_states_won": 23,
+      "gop_electoral_won": 201,
       "last_updated": "2:30 AM ET",
       "winner": "DEM",
       "gop_states_won": 23,
       "rep_vote_pct": 0,
       "organization_id": "CNN",
+      "dem_vote_pct": 0,
+      "rep_electoral_lead": 3,
       "markers": [
         {
           "offset": 269,
@@ -4492,8 +4494,6 @@
           "line": true
         }
       ],
-      "dem_vote_pct": 0,
-      "rep_electoral_lead": 3,
       "bar_order": [
         "dem",
         "ind",
@@ -4501,8 +4501,8 @@
         "rep"
       ],
       "total_precincts_reporting": 0,
-      "live": true,
       "dem_popular_vote": 0,
+      "live": true,
       "branch": "president",
       "rep_electoral_won": 201,
       "buckets": {
@@ -4536,8 +4536,9 @@
       },
       "count": 538,
       "rep_popular_vote": 0,
-      "year": 2012,
       "gop_vote_pct": 0,
+      "year": 2012,
+      "call_tracker_classes": "dem-win win dem-lead",
       "highlights": {
         "left": [
           "dem"
@@ -4552,22 +4553,23 @@
       },
       "total_precincts": 0,
       "rep_states_won": 23,
-      "call_tracker_classes": "dem-win win dem-lead",
       "dem_electoral_won": 274,
-      "dem_electoral_lead": 57,
-      "updated_at": "2012-11-07T07:30:47Z"
+      "updated_at": "2012-11-07T07:30:47Z",
+      "dem_electoral_lead": 57
     },
     {
-      "gop_electoral_lead": 3,
       "total_popular_vote": 0,
+      "gop_electoral_lead": 3,
       "gop_popular_vote": 0,
-      "gop_electoral_won": 203,
       "dem_states_won": 24,
+      "gop_electoral_won": 203,
       "last_updated": "2:30 AM ET",
       "winner": "DEM",
       "gop_states_won": 23,
       "rep_vote_pct": 0,
       "organization_id": "FOX",
+      "dem_vote_pct": 0,
+      "rep_electoral_lead": 3,
       "markers": [
         {
           "offset": 269,
@@ -4575,8 +4577,6 @@
           "line": true
         }
       ],
-      "dem_vote_pct": 0,
-      "rep_electoral_lead": 3,
       "bar_order": [
         "dem",
         "ind",
@@ -4584,8 +4584,8 @@
         "rep"
       ],
       "total_precincts_reporting": 0,
-      "live": true,
       "dem_popular_vote": 0,
+      "live": true,
       "branch": "president",
       "rep_electoral_won": 203,
       "buckets": {
@@ -4619,8 +4619,9 @@
       },
       "count": 538,
       "rep_popular_vote": 0,
-      "year": 2012,
       "gop_vote_pct": 0,
+      "year": 2012,
+      "call_tracker_classes": "dem-win win dem-lead",
       "highlights": {
         "left": [
           "dem"
@@ -4635,10 +4636,9 @@
       },
       "total_precincts": 0,
       "rep_states_won": 23,
-      "call_tracker_classes": "dem-win win dem-lead",
       "dem_electoral_won": 281,
-      "dem_electoral_lead": 51,
-      "updated_at": "2012-11-07T07:30:47Z"
+      "updated_at": "2012-11-07T07:30:47Z",
+      "dem_electoral_lead": 51
     }
   ]
 }
